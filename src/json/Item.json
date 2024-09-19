@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Intel Core i9-11900K Processor",
+    "price": 549,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Intel+Core+i9"
+  },
+  {
+    "id": 2,
+    "name": "NVIDIA GeForce RTX 3080",
+    "price": 699,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=NVIDIA+RTX+3080"
+  },
+  {
+    "id": 3,
+    "name": "Corsair Vengeance LPX 16GB DDR4 RAM",
+    "price": 79,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Corsair+Vengeance+RAM"
+  },
+  {
+    "id": 4,
+    "name": "Samsung 970 EVO Plus 1TB SSD",
+    "price": 149,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Samsung+970+EVO"
+  },
+  {
+    "id": 5,
+    "name": "ASUS ROG Strix Z590-E Gaming Motherboard",
+    "price": 349,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=ASUS+ROG+Strix"
+  },
+  {
+    "id": 6,
+    "name": "Cooler Master Hyper 212 CPU Cooler",
+    "price": 39,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Cooler+Master+Hyper+212"
+  },
+  {
+    "id": 7,
+    "name": "EVGA 750W Power Supply",
+    "price": 109,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=EVGA+750W+PSU"
+  },
+  {
+    "id": 8,
+    "name": "Logitech G502 HERO Gaming Mouse",
+    "price": 49,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Logitech+G502"
+  },
+  {
+    "id": 9,
+    "name": "Dell Ultrasharp U2720Q 27-inch 4K Monitor",
+    "price": 499,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Dell+Ultrasharp+U2720Q"
+  },
+  {
+    "id": 10,
+    "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
+    "price": 129,
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Razer+BlackWidow"
+  }
+]
